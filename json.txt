@@ -1,0 +1,136 @@
+{
+"status": "ok",
+"totalResults": 10,
+"articles": [
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "'Swab dogs' spread joy in Melbourne lockdown",
+"description": "Tiffany White runs a popular Instagram account documenting the dogs that visit Covid testing sites.",
+"url": "http://www.bbc.co.uk/news/world-australia-57340316",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18608/production/_118784899_p09kdvyw.jpg",
+"publishedAt": "2021-06-05T06:22:17.2386035Z",
+"content": "Pathology worker Tiffany White works at drive-through Covid testing centres across the city of Melbourne, Australia. She noticed people bringing their dogs along for the ride and started taking their… [+268 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Microsoft says error caused 'Tank Man' Bing censorship",
+"description": "Microsoft's Bing search engine showed no image results for the famous Tiananmen Square protester.",
+"url": "http://www.bbc.co.uk/news/world-asia-57367100",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12F16/production/_118809577_022468588.jpg",
+"publishedAt": "2021-06-05T05:07:22.4868123Z",
+"content": "media captionTiananmen's tank man: The image that China forgot\r\nMicrosoft blamed an \"accidental human error\" for its Bing search engine not showing image results for the query \"Tank Man\".\r\nThe phrase… [+2112 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "G7: Rich nations confident on reaching tech tax deal",
+"description": "German finance minister Olaf Scholz says a minimum tax deal agreed by the G7 will \"change the world\".",
+"url": "http://www.bbc.co.uk/news/business-57367057",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C53A/production/_118809405_index.jpg",
+"publishedAt": "2021-06-05T04:22:22.0628745Z",
+"content": "image copyrightGetty Images\r\nimage captionThe French finance minister urged low tax states like Ireland to back a deal which would target tech giants such as Amazon and Microsoft.\r\nFinance ministers … [+7095 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "FBI sought info on who read USA Today news article for case",
+"description": "The USA Today newspaper is resisting an FBI demand to hand over data on readers of its story.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-57367093",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1794E/production/_118809569_usatoday.jpg",
+"publishedAt": "2021-06-05T03:07:20.3250281Z",
+"content": "image copyrightGetty Images\r\nimage captionUSA Today calls the FBI's demand a \"clear violation\" of the US constitution\r\nThe FBI sought information about readers of an online article as part of an inve… [+2475 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Why Oklahoma is a cannabis 'wild wild west'",
+"description": "The conservative state's hands-off approach has made it the hottest weed market in the US.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-57337298",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17456/production/_118781359_p09km981.jpg",
+"publishedAt": "2021-06-05T03:07:15.5918305Z",
+"content": "Why is Oklahoma - one of the 'reddest' states in the US - a \"wild wild west\" for the cannabis business in the US? And what does that mean for cannabis entrepreneurs like Jayne and Vic Grissom?\r\nRepor… [+108 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Roman Protasevich arrest: EU bans Belarus jets from its airspace",
+"description": "The move follows Belarus's grounding of a Ryanair flight to arrest a dissident journalist.",
+"url": "http://www.bbc.co.uk/news/world-europe-57366919",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/82D2/production/_118809433_067826680.jpg",
+"publishedAt": "2021-06-05T00:37:21.6628455Z",
+"content": "image captionBelarusian airline Belavia flies to some 20 airports in Europe\r\nThe EU has banned Belarusian planes from its skies or accessing its airports after the forced grounding of a Ryanair fligh… [+3150 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "United plans supersonic passenger flights by 2029",
+"description": "The US airline has ordered 15 supersonic passenger jets which could cut travel times in half.",
+"url": "http://www.bbc.co.uk/news/technology-57361193",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AB9A/production/_118803934_united-boom.jpg",
+"publishedAt": "2021-06-05T00:37:18.741697Z",
+"content": "By Chris FoxTechnology reporter\r\nimage copyrightUnited/Boom\r\nimage captionA digital model of the new Overture aircraft in United livery\r\nUS airline United has announced plans to buy 15 new supersonic… [+4359 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Putin sees 'double standard' in US Capitol riot prosecutions",
+"description": "Ahead of a summit with President Joe Biden, Mr Putin also says he expects \"no breakthroughs\".",
+"url": "http://www.bbc.co.uk/news/world-us-canada-57366668",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0CDA/production/_118809230_gettyimages-481901172.jpg",
+"publishedAt": "2021-06-05T00:37:16.3516666Z",
+"content": "image copyrightGetty Images\r\nRussian President Vladimir Putin has accused the US of double standards for its treatment of the Capitol rioters.\r\nHe said it was wrong for the US to slam crackdowns on a… [+4283 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Denmark parliament approves giant artificial island off Copenhagen",
+"description": "Lynetteholm aims to house 35,000 people and protect the port, but environmentalists have concerns.",
+"url": "http://www.bbc.co.uk/news/world-europe-57348415",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C543/production/_118799405_73e99ba8-32f7-4258-930b-3dcfb6a1f2c5.jpg",
+"publishedAt": "2021-06-04T20:37:19.1936982Z",
+"content": "image copyrightDanish government\r\nimage captionWhat the new island of Lynetteholm, off Copenhagen in Denmark, would look like\r\nPlans for an artificial island to house 35,000 people and protect the po… [+2919 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Facebook suspends Trump accounts for two years",
+"description": "Facebook's oversight board previously criticised the firm's decision to ban Donald Trump indefinitely.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-57365628",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16361/production/_118377909_gettyimages-1304610824.jpg",
+"publishedAt": "2021-06-04T17:07:24.2731088Z",
+"content": "image copyrightGetty Images\r\nFacebook Inc has suspended former US President Donald Trump's Facebook and Instagram accounts for two years.\r\nHe was barred indefinitely from both sites in January in the… [+303 chars]"
+}
+]
+}
